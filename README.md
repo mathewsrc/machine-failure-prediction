@@ -1,5 +1,7 @@
 # machine-failure-prediction
 
+![_1d9c1bbb-6e35-4a13-a06a-c3bac7cbb0ab](https://github.com/mathewsrc/machine-failure-prediction/assets/94936606/69177a11-5937-4016-bf17-b41e1c00c4f1)
+
 ## Introduction
 
 In the field of industrial maintenance and operations, the timely detection of machine failures is crucial to prevent unexpected downtime, minimize production losses, and optimize maintenance strategies. Machine learning techniques have emerged as valuable tools for predicting and classifying data. However, the effectiveness of such models heavily relies on the quality and balance of the dataset used for training.
