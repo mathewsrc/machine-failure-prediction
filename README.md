@@ -1,6 +1,6 @@
 # machine-failure-prediction
 
-![_1d9c1bbb-6e35-4a13-a06a-c3bac7cbb0ab](https://github.com/mathewsrc/machine-failure-prediction/assets/94936606/69177a11-5937-4016-bf17-b41e1c00c4f1)
+<img src="https://github.com/mathewsrc/machine-failure-prediction/assets/94936606/69177a11-5937-4016-bf17-b41e1c00c4f1" width="500" height="300">
 
 ## Introduction
 
