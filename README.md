@@ -24,7 +24,7 @@ Advantages of using Databricks
 * Easy integration with the cloud provides
 * Delta Lake as the default storage format for all operations
 * It already has spark and mlflow installed and is ready for use
-* We can use easy change code language in the notebook and use more than one in the same notebook. Available languages: Python, R, Scalar, and SQL.
+* We can use easy change code language in the notebook and use more than one in the same notebook. Available languages: Python, R, Scala, and SQL.
 * UI tool in notebooks to create visualizations from SQL queries 
 * No need for hardware
   
